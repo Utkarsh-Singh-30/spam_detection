@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+sqlalchemy
+pymysql
+nltk
+scikit-learn
+python-dotenv
+cryptography

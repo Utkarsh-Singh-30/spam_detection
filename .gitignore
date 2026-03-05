@@ -1,0 +1,24 @@
+# Python cache files (Inhe upload nahi karna chahiye)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Agar tumne virtual env banaya ho)
+venv/
+env/
+.env
+
+# IDE settings (VS Code aur PyCharm ki settings)
+.vscode/
+.idea/
+
+# NLTK Data (Ye bada folder hota hai, user khud download karega)
+nltk_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model files (Optional: Agar files 100MB se badi hain toh GitHub allow nahi karega)
+# Par tumhare case mein model chota hai toh upload kar sakte ho.
+# *.pkl
